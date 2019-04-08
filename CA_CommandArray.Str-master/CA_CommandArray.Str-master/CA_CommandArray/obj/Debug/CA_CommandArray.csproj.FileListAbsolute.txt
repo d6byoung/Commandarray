@@ -1,0 +1,10 @@
+E:\CIT 110\Week 11\CA_CommandArray.Str-master\CA_CommandArray.Str-master\CA_CommandArray\obj\Debug\CA_CommandArray.csproj.CoreCompileInputs.cache
+E:\CIT 110\Week 11\CA_CommandArray.Str-master\CA_CommandArray.Str-master\CA_CommandArray\obj\Debug\CA_CommandArray.csprojAssemblyReference.cache
+E:\CIT 110\Week 11\CA_CommandArray.Str-master\CA_CommandArray.Str-master\CA_CommandArray\bin\Debug\CA_CommandArray.exe.config
+E:\CIT 110\Week 11\CA_CommandArray.Str-master\CA_CommandArray.Str-master\CA_CommandArray\bin\Debug\CA_CommandArray.exe
+E:\CIT 110\Week 11\CA_CommandArray.Str-master\CA_CommandArray.Str-master\CA_CommandArray\bin\Debug\CA_CommandArray.pdb
+E:\CIT 110\Week 11\CA_CommandArray.Str-master\CA_CommandArray.Str-master\CA_CommandArray\bin\Debug\FinchAPI.dll
+E:\CIT 110\Week 11\CA_CommandArray.Str-master\CA_CommandArray.Str-master\CA_CommandArray\bin\Debug\HidSharp.dll
+E:\CIT 110\Week 11\CA_CommandArray.Str-master\CA_CommandArray.Str-master\CA_CommandArray\obj\Debug\CA_CommandArray.csproj.CopyComplete
+E:\CIT 110\Week 11\CA_CommandArray.Str-master\CA_CommandArray.Str-master\CA_CommandArray\obj\Debug\CA_CommandArray.exe
+E:\CIT 110\Week 11\CA_CommandArray.Str-master\CA_CommandArray.Str-master\CA_CommandArray\obj\Debug\CA_CommandArray.pdb
